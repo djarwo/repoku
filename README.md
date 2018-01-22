@@ -1,0 +1,1 @@
+Perangkat ini koneksi ke github djarwo/repoku
